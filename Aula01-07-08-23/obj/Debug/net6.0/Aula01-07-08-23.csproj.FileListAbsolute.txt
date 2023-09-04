@@ -1,0 +1,15 @@
+C:\Users\kemue\Downloads\Programacao\Desenvolvimento de Software Visual\Aulas - Código\Aula01-07-08-23\obj\Debug\net6.0\Aula01-07-08-23.csproj.AssemblyReference.cache
+C:\Users\kemue\Downloads\Programacao\Desenvolvimento de Software Visual\Aulas - Código\Aula01-07-08-23\obj\Debug\net6.0\Aula01-07-08-23.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\kemue\Downloads\Programacao\Desenvolvimento de Software Visual\Aulas - Código\Aula01-07-08-23\obj\Debug\net6.0\Aula01-07-08-23.AssemblyInfoInputs.cache
+C:\Users\kemue\Downloads\Programacao\Desenvolvimento de Software Visual\Aulas - Código\Aula01-07-08-23\obj\Debug\net6.0\Aula01-07-08-23.AssemblyInfo.cs
+C:\Users\kemue\Downloads\Programacao\Desenvolvimento de Software Visual\Aulas - Código\Aula01-07-08-23\obj\Debug\net6.0\Aula01-07-08-23.csproj.CoreCompileInputs.cache
+C:\Users\kemue\Downloads\Programacao\Desenvolvimento de Software Visual\Aulas - Código\Aula01-07-08-23\bin\Debug\net6.0\Aula01-07-08-23.exe
+C:\Users\kemue\Downloads\Programacao\Desenvolvimento de Software Visual\Aulas - Código\Aula01-07-08-23\bin\Debug\net6.0\Aula01-07-08-23.deps.json
+C:\Users\kemue\Downloads\Programacao\Desenvolvimento de Software Visual\Aulas - Código\Aula01-07-08-23\bin\Debug\net6.0\Aula01-07-08-23.runtimeconfig.json
+C:\Users\kemue\Downloads\Programacao\Desenvolvimento de Software Visual\Aulas - Código\Aula01-07-08-23\bin\Debug\net6.0\Aula01-07-08-23.dll
+C:\Users\kemue\Downloads\Programacao\Desenvolvimento de Software Visual\Aulas - Código\Aula01-07-08-23\bin\Debug\net6.0\Aula01-07-08-23.pdb
+C:\Users\kemue\Downloads\Programacao\Desenvolvimento de Software Visual\Aulas - Código\Aula01-07-08-23\obj\Debug\net6.0\Aula01-07-08-23.dll
+C:\Users\kemue\Downloads\Programacao\Desenvolvimento de Software Visual\Aulas - Código\Aula01-07-08-23\obj\Debug\net6.0\refint\Aula01-07-08-23.dll
+C:\Users\kemue\Downloads\Programacao\Desenvolvimento de Software Visual\Aulas - Código\Aula01-07-08-23\obj\Debug\net6.0\Aula01-07-08-23.pdb
+C:\Users\kemue\Downloads\Programacao\Desenvolvimento de Software Visual\Aulas - Código\Aula01-07-08-23\obj\Debug\net6.0\Aula01-07-08-23.genruntimeconfig.cache
+C:\Users\kemue\Downloads\Programacao\Desenvolvimento de Software Visual\Aulas - Código\Aula01-07-08-23\obj\Debug\net6.0\ref\Aula01-07-08-23.dll
